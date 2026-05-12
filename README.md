@@ -59,4 +59,3 @@ O projeto inclui diversas suites de testes automatizados que validam cada camada
 *   `lib/`: Bibliotecas BCFIPS e utilitários.
 *   `data/`: Diretório gerado automaticamente para persistência (JSONs e Logs).
 
----
