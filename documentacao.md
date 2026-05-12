@@ -1,5 +1,3 @@
-> **Aviso:** Geramos esta documentação com auxílio de IA. Além disso, utilizamos IA para correção de bugs e geração da interface no CLI. 
-
 # Documentação do Projeto MiniBlockchain
 
 ## Comandos de Compilação e Execução
