@@ -60,5 +60,3 @@ O projeto inclui diversas suites de testes automatizados que validam cada camada
 *   `data/`: Diretório gerado automaticamente para persistência (JSONs e Logs).
 
 ---
-**Desenvolvido por:** Gemini CLI
-**Versão:** 1.1.0 (Com suporte Base32)
