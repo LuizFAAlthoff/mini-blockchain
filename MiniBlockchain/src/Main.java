@@ -20,10 +20,10 @@ public class Main {
 
         while (true) {
             try {
-                if (!MiniBlockchainServer.isAuthenticated()) {
-                    showVisitorMenu();
-                } else {
+                if (MiniBlockchainServer.isAuthenticated()) {
                     showAuthenticatedMenu();
+                } else {
+                    showVisitorMenu();
                 }
             } catch (Exception e) {
                 System.out.println("\n[!] Ocorreu um erro inesperado: " + e.getMessage());
